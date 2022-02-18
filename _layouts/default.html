@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/aos.css?ver=1.1.0" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+    <link href="assets/css/main.css?ver=1.1.0" rel="stylesheet">
+    <noscript>
+      <style type="text/css">
+        [data-aos] {
+            opacity: 1 !important;
+            transform: translate(0) scale(1) !important;
+        }
+      </style>
+    </noscript>
+  </head>
+  <body id="top">
+    <div class="page-content">
+      {% include navigation.html %}
+      {% include profile.html %}
+      {% include about.html %}
+      {% include skill.html %}
+      {% comment %} {% include portfolio.html %} {% endcomment %}
+      {% include experience.html %}
+      {% include education.html %}
+      {% include contact.html %}
+      {{ content }}
+    </div>
+    {% include footer.html %}
+    <script src="assets/js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
+    <script src="assets/js/core/popper.min.js?ver=1.1.0"></script>
+    <script src="assets/js/core/bootstrap.min.js?ver=1.1.0"></script>
+    <script src="assets/js/now-ui-kit.js?ver=1.1.0"></script>
+    <script src="assets/js/aos.js?ver=1.1.0"></script>
+    <script src="assets/js/main.js?ver=1.1.0"></script>
+  </body>
+</html>
