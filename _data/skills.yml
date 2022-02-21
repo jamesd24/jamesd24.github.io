@@ -1,0 +1,10 @@
+- pair:
+  - name: C#
+    value: 90
+  - name: .NET / .NET Core
+    value: 80
+- pair:
+  - name: SQL
+    value: 80
+  - name: NoSQL
+    value: 75
