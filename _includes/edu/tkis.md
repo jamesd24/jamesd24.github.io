@@ -1,1 +1,3 @@
-TKIS!
+- School Captain - 2009
+- Mathematics Excellence Award - 2008, 2009
+- UQ School Science Ambassador - 2008

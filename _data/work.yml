@@ -1,4 +1,20 @@
 - company: Transmax
-  timespan: August 2013 - Present
+  timespan: "January 2017 - Present"
   title: Senior Software Engineer
-  description: work/l4_transmax.md
+  description: work/l3_transmax.md
+- company: Transmax
+  timespan: "January 2016 - January 2017"
+  title: Software Engineer
+  description: work/l2_transmax.md
+- company: Transmax
+  timespan: January 2015 - January 2016
+  title: Junior Software Engineer
+  description: work/l1_transmax.md
+- company: Transmax
+  timespan: January 2014 - January 2015
+  title: Technical Support Officer
+  description: work/tech_support_tmx.md
+- company: Transmax
+  timespan: August 2013 - January 2014
+  title: Intern Software Developer
+  description: work/intern.md
