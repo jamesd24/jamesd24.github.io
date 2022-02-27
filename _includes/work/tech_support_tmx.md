@@ -1,1 +1,4 @@
-Fixing all the problems.
+- Providing support to Transmax customers.
+- Ad-hoc application support and defect resolution.
+- Supporting system deployments and upgrades.
+- Supporting the transition to an ITIL certified service platform.

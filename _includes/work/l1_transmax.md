@@ -1,1 +1,5 @@
-Fixing all the problems.
+- Experience developing commercial solutions in .NET, .NET Core, Python, C# and C++.
+- Supporting and training customers and software operators.
+- Resolving customer issues and providing software configuration support.
+- Extensive experience with Microsoft SQL and database administration.
+- Conducted unit testing using the Nunit/Xunit frameworks.

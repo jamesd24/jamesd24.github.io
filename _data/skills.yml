@@ -4,7 +4,27 @@
   - name: .NET / .NET Core
     value: 80
 - pair:
+  - name: ASP.NET / ASP.NET Core
+    value: 80
+  - name: WinForms / WPF
+    value: 75
+- pair:
   - name: SQL
     value: 80
-  - name: NoSQL
+  - name: NoSQL (ElasticSearch, Neo4j, MongoDb, Redis)
     value: 75
+- pair:
+  - name: Python
+    value: 70
+  - name: C++
+    value: 70
+- pair:
+  - name: Javascript
+    value: 70
+  - name: HTML/CSS
+    value: 80
+- pair:
+  - name: Docker
+    value: 65
+  - name: Kubernetes
+    value: 60

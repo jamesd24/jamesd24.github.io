@@ -1,1 +1,10 @@
-Fixing all the problems.
+- Designing and implementing solutions designs.
+- Diagnosing and fixing critical system issues.
+- Designed a performance and load testing framework for a monolithic system.
+- Working within a self managing Agile software development team.
+- Training and mentoring developers and testers of various levels.
+- A key SME for multiple aspects of an Intelligent Transport System.
+- Developed an ongoing migration of data from SQL to NoSQL.
+- Developed integrations using REST APIs for NoSQL data access.
+- Implementing methods for containerized applications to integrate with a monolithic system.
+- Experience deploying commercial system components to AWS.

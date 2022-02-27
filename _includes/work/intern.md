@@ -1,1 +1,4 @@
- - Fixing software defects
+ - Developing and maintaining internal support tools.
+ - Diagnosing the fixing software defects.
+ - Upgrading systems to newer framework versions and operating systems.
+ - Working within an Agile software development team.
