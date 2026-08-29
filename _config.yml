@@ -1,14 +1,10 @@
 plugins:
     - jekyll-seo-tag
 
-title: James D. | Profile
+title: James D. — Senior Software Engineer (ITS)
 tagline: The professional profile of James D.
-description: |
-    Hello, I'm James. 
-    Since 2013, I've previously worked in Atlassian and Australia's premier Intelligent Transport System solution vendor. 
-    Designing and building highly maintainable software solutions is one of my passions. 
-    My capacity to swiftly learn and use new technology is my greatest asset. 
-    I also have a talent for identifying the source of problems and devising effective solutions.
+description: >-
+  Senior Software Engineer with 12+ years delivering maintainable, scalable Intelligent Transport Systems. Expertise in C#, .NET, distributed search (Elasticsearch), graph DBs (Neo4j), and cloud-native infrastructure (Docker, Kubernetes, Terraform). Recently contributed to platform initiatives at Atlassian, focusing on scalable backend services and observability improvements.
 url: jamesd24.github.io
 author: James D.
 my_roles: Senior Software Engineer, Problem Solver
