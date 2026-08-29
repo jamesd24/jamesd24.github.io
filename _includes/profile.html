@@ -5,7 +5,11 @@
       </div>
       <div class="container">
         <div class="content-center">
-          <div class="cc-profile-image"><a href="#"><img src="assets/images/me.jpg" alt="Image" /></a></div>
+          <div class="cc-profile-image">
+            <a href="/">
+              <img src="{{ '/assets/images/me.jpg' | relative_url }}" alt="James D. — Senior Software Engineer" width="240" height="240" loading="lazy" />
+            </a>
+          </div>
           <div class="h2 title">{{ site.author }}</div>
           <p class="category text-white">{{ site.my_roles }}</p>
           <a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in"
