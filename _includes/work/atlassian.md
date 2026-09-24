@@ -1,7 +1,5 @@
-- Working with a highly complex cloud based systems.
-- Feature lead of the Atlassian Jira/Confluence App Ecosystem maintenance team.
-- Acted as Engineering support for complex customer escalations.
-- Performed on-call duties to monitor and maintain Jira/Confluence capabilities.
-- Respond to and drive incidents to successful resolution and mitigations.
-- Designed and implemented solutions for data residency features of apps in Confluence and Jira.
-- Experience working with AI codding agents. eg. Rovo Dev & GitHub Copilot.
+- Led feature development and maintenance for the Jira and Confluence App Ecosystem, delivering high-quality updates for a complex cloud-based platform.
+- Served as a technical lead for complex customer escalations, driving investigations and restoring service stability in production environments.
+- Designed and implemented data residency solutions for apps in Jira and Confluence, enabling customer compliance needs across multiple regions.
+- Performed on-call responsibilities to monitor and maintain Jira and Confluence capabilities, responding to incidents and driving mitigation strategies to resolution.
+- Worked with AI coding tools such as Rovo Dev and GitHub Copilot to accelerate development, testing, and troubleshooting workflows.
