@@ -1,5 +1,5 @@
-- Led feature development and maintenance for the Jira and Confluence App Ecosystem, delivering high-quality updates for a complex cloud-based platform.
-- Served as a technical lead for complex customer escalations, driving investigations and restoring service stability in production environments.
-- Designed and implemented data residency solutions for apps in Jira and Confluence, enabling customer compliance needs across multiple regions.
-- Performed on-call responsibilities to monitor and maintain Jira and Confluence capabilities, responding to incidents and driving mitigation strategies to resolution.
+- Led the KTLO squad for Atlassian Connect apps during the transition to Forge, coordinating four engineers to remove 200 feature-flag code artifacts across five repositories over three months.
+- Feature-led delivery of a complex Forge data-residency capability for Tempo, coordinating integration across three apps and their shared base app to support EU, Germany, and US data residency and interoperability between legacy Connect and Forge applications.
+- Served as an engineering escalation point for complex Jira and Confluence app issues, driving investigations, mitigations, and permanent fixes.
+- Performed on-call duties to monitor and maintain Jira and Confluence capabilities, responding to incidents and driving them to successful resolution.
 - Worked with AI coding tools such as Rovo Dev and GitHub Copilot to accelerate development, testing, and troubleshooting workflows.
