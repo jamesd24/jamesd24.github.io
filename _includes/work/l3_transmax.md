@@ -1,10 +1,11 @@
+- Led the design and implementation of an incremental, multi-year migration of large time-based traffic log data from Microsoft SQL Server to Elasticsearch, improving system scalability and query performance.
+- Improved HTTP compression for transferred data, reducing payload size by 90% and lowering AWS EC2 transfer costs.
 - Designed and implemented solution designs for complex commercial systems.
 - Diagnosed and resolved critical system issues to maintain service continuity in production environments.
 - Designed and implemented a performance and load testing framework for a monolithic system to support reliability and capacity planning.
 - Worked within a self-managing Agile team to deliver iterative improvements and cross-functional changes.
 - Trained and mentored developers and testers across multiple experience levels.
 - Acted as a key subject matter expert for multiple aspects of an Intelligent Transport System.
-- Delivered a long-term SQL-to-NoSQL data migration, improving system scalability and data access patterns.
 - Built integrations using REST APIs for NoSQL data access.
 - Implemented containerized application patterns to integrate with a monolithic system.
 - Deployed commercial system components to AWS in production environments.
