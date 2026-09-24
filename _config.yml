@@ -4,8 +4,13 @@ plugins:
 title: James D. — Senior Software Engineer (ITS)
 tagline: The professional profile of James D.
 description: >-
-  Senior Software Engineer with 12+ years delivering maintainable, scalable Intelligent Transport Systems. Expertise in C#, .NET, distributed search (Elasticsearch), graph DBs (Neo4j), and cloud-native infrastructure (Docker, Kubernetes, Terraform). Recently contributed to platform initiatives at Atlassian, focusing on scalable backend services and observability improvements.
+  Senior Software Engineer with 12+ years of experience designing, delivering, and supporting
+  maintainable, scalable software systems across Intelligent Transport Systems and cloud-based
+  applications. Experienced in technical leadership, production operations, complex customer
+  escalations, and modernizing legacy architectures. Recently led engineering initiatives across
+  Atlassian Connect and Forge applications, with a strong background in C#, .NET, Python, C++,
+  distributed systems, SQL and NoSQL data platforms, REST APIs, and AWS.
 url: jamesd24.github.io
 author: James D.
-my_roles: Senior Software Engineer, Problem Solver
+my_roles: Senior Software Engineer, Technical Lead, Systems Engineer
 location: Brisbane, QLD, Australia
