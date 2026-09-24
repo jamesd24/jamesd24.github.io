@@ -1,10 +1,10 @@
-- Designed and implemented solution designs for complex system requirements.
-- Diagnosed and fixed critical system issues to maintain service continuity.
-- Designed a performance and load testing framework for a monolithic system to support reliability and capacity planning.
-- Worked within a self-managing Agile software development team to deliver iterative improvements.
+- Designed and implemented solution designs for complex commercial systems.
+- Diagnosed and resolved critical system issues to maintain service continuity in production environments.
+- Designed and implemented a performance and load testing framework for a monolithic system to support reliability and capacity planning.
+- Worked within a self-managing Agile team to deliver iterative improvements and cross-functional changes.
 - Trained and mentored developers and testers across multiple experience levels.
 - Acted as a key subject matter expert for multiple aspects of an Intelligent Transport System.
-- Developed and executed a long-term migration of data from SQL to NoSQL.
+- Delivered a long-term SQL-to-NoSQL data migration, improving system scalability and data access patterns.
 - Built integrations using REST APIs for NoSQL data access.
-- Implemented patterns for containerized applications to integrate with a monolithic system.
+- Implemented containerized application patterns to integrate with a monolithic system.
 - Deployed commercial system components to AWS in production environments.

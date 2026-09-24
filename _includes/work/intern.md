@@ -1,4 +1,4 @@
 - Developed and maintained internal support tools used by the business.
-- Diagnosed and fixed software defects across internal systems.
+- Diagnosed and fixed software defects across internal systems and workflows.
 - Upgraded legacy systems to newer framework versions and operating systems.
-- Worked within an Agile software development team to deliver features and fixes in iterative cycles.
+- Worked within an Agile software development team to deliver improvements in iterative cycles.
