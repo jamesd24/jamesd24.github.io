@@ -1,4 +1,4 @@
-- Providing support to Transmax customers.
-- Ad-hoc application support and defect resolution.
-- Supporting system deployments and upgrades.
-- Supporting the transition to an ITIL certified service platform.
+- Provided support to Transmax customers across software and infrastructure issues.
+- Resolved ad hoc application issues and defects in a timely manner.
+- Supported system deployments and upgrades across customer environments.
+- Contributed to the transition to an ITIL-certified service platform and supporting operational processes.

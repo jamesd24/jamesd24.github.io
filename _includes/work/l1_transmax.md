@@ -1,5 +1,5 @@
-- Experience developing commercial solutions in .NET, .NET Core, Python, C# and C++.
-- Supporting and training customers and software operators.
-- Resolving customer issues and providing software configuration support.
-- Extensive experience with Microsoft SQL and database administration.
-- Conducted unit testing using the Nunit/Xunit frameworks.
+- Developed commercial software solutions using .NET, .NET Core, Python, C#, and C++.
+- Supported and trained customers and software operators on application use and configuration.
+- Resolved customer issues and provided software configuration support to maintain uptime and service quality.
+- Worked extensively with Microsoft SQL Server and database administration in production environments.
+- Conducted unit testing using NUnit and XUnit frameworks.
