@@ -1,5 +1,5 @@
-- Led the KTLO squad for Atlassian Connect apps during the transition to Forge, coordinating four engineers to remove 200 feature-flag code artifacts across five repositories over three months.
-- Feature-led delivery of a complex Forge data-residency capability for Tempo, coordinating integration across three apps and their shared base app to support EU, Germany, and US data residency and interoperability between legacy Connect and Forge applications.
+- Led a four-engineer KTLO squad for Atlassian Connect apps during the transition to Forge, removing 200 feature-flag code artifacts across five repositories over three months.
+- Led delivery of a complex Forge data-residency capability for Tempo, coordinating integration across three apps and their shared base app to support EU, Germany, and US data residency and interoperability between legacy Connect and Forge applications.
 - Served as an engineering escalation point for complex Jira and Confluence app issues, driving investigations, mitigations, and permanent fixes.
 - Performed on-call duties to monitor and maintain Jira and Confluence capabilities, responding to incidents and driving them to successful resolution.
 - Worked with AI coding tools such as Rovo Dev and GitHub Copilot to accelerate development, testing, and troubleshooting workflows.

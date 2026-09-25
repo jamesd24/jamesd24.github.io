@@ -2,4 +2,4 @@
 - Supported and trained customers and software operators on product configuration and usage.
 - Resolved customer issues and provided software configuration support to maintain service quality.
 - Worked extensively with Microsoft SQL Server and database administration in production environments.
-- Conducted unit testing using NUnit and XUnit frameworks.
+- Conducted unit testing using NUnit and xUnit frameworks.
