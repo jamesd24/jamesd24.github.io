@@ -1,35 +1,50 @@
-- pair:
-  - name: C#
-    value: 90
-  - name: .NET / .NET Core
-    value: 80
-- pair:
-  - name: Terraform
-    value: 80
-  - name: Ansible
-    value: 80
-- pair:
-  - name: ASP.NET / ASP.NET Core
-    value: 80
-  - name: WinForms / WPF
-    value: 75
-- pair:
-  - name: NoSQL (ElasticSearch, Neo4j, MongoDb, Redis)
-    value: 90
-  - name: SQL
-    value: 80
-- pair:
-  - name: Python
-    value: 80
-  - name: C++
-    value: 70
-- pair:
-  - name: Javascript / Typescript
-    value: 80
-  - name: Java
-    value: 75
-- pair:
-  - name: Docker
-    value: 80
-  - name: Kubernetes
-    value: 70
+- name: Languages
+  skills:
+    - name: C# / .NET
+      level: Primary
+      evidence: Production services, APIs, and internal tooling
+    - name: JavaScript / TypeScript
+      level: Working knowledge
+      evidence: Web applications and frontend development
+    - name: Python
+      level: Working knowledge
+      evidence: Automation, scripting, and supporting tools
+    - name: C++
+      level: Familiar
+      evidence: Systems and project work
+    - name: Java
+      level: Familiar
+      evidence: Application and project development
+
+- name: Backend and application development
+  skills:
+    - name: ASP.NET / ASP.NET Core
+      level: Primary
+      evidence: Web APIs and backend services
+    - name: WinForms / WPF
+      level: Working knowledge
+      evidence: Desktop application development
+
+- name: Cloud and infrastructure
+  skills:
+    - name: Terraform
+      level: Working knowledge
+      evidence: Infrastructure automation and environment configuration
+    - name: Ansible
+      level: Working knowledge
+      evidence: Configuration management and automation
+    - name: Docker
+      level: Working knowledge
+      evidence: Containerized development and deployment
+    - name: Kubernetes
+      level: Familiar
+      evidence: Container orchestration and deployment workflows
+
+- name: Data and search
+  skills:
+    - name: SQL
+      level: Working knowledge
+      evidence: Relational data access and application queries
+    - name: NoSQL
+      level: Working knowledge
+      evidence: Elasticsearch, Neo4j, MongoDB, and Redis
