@@ -3,21 +3,30 @@
     <div class="h4 text-center mb-4 title">Professional Skills</div>
     <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
       <div class="card-body">
-        {% for pair in site.data.skills %}
+        <p class="text-muted mb-4">
+          Skills are grouped by area. Levels describe the type of experience, with examples showing how each skill has been used.
+        </p>
+
         <div class="row">
-          {% for skill in pair.pair %}
-          <div class="col-md-6">
-            <div class="progress-container progress-primary"><span class="progress-badge">{{skill.name}}</span>
-              <div class="progress">
-                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10"
-                  data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"
-                  style="width: {{skill.value}}%;"></div><span class="progress-value"></span>
-              </div>
-            </div>
+          {% for group in site.data.skills %}
+          <div class="col-md-6 mb-4">
+            <section class="h-100" aria-labelledby="skill-group-{{ forloop.index }}">
+              <h5 id="skill-group-{{ forloop.index }}" class="mb-3">{{ group.name }}</h5>
+              <ul class="list-unstyled mb-0">
+                {% for skill in group.skills %}
+                <li class="mb-3">
+                  <div class="d-flex justify-content-between align-items-start flex-wrap">
+                    <strong>{{ skill.name }}</strong>
+                    <span class="badge badge-primary ml-2">{{ skill.level }}</span>
+                  </div>
+                  <div class="text-muted small mt-1">{{ skill.evidence }}</div>
+                </li>
+                {% endfor %}
+              </ul>
+            </section>
           </div>
           {% endfor %}
         </div>
-        {% endfor %}
       </div>
     </div>
   </div>
