@@ -3,18 +3,21 @@
     - name: C# / .NET
       level: Primary
       evidence: Production services, APIs, and internal tooling
+    - name: Python
+      level: Primary
+      evidence: Automation, scripting, and supporting tools
     - name: JavaScript / TypeScript
       level: Working knowledge
       evidence: Web applications and frontend development
-    - name: Python
-      level: Working knowledge
-      evidence: Automation, scripting, and supporting tools
     - name: C++
-      level: Familiar
-      evidence: Systems and project work
+      level: Working knowledge
+      evidence: Backend server services
     - name: Java
+      level: Working knowledge
+      evidence: Java-based platforms and tooling
+    - name: Go
       level: Familiar
-      evidence: Application and project development
+      evidence: Beginning backend server development
 
 - name: Backend and application development
   skills:
@@ -42,9 +45,18 @@
 
 - name: Data and search
   skills:
-    - name: SQL
-      level: Working knowledge
+    - name: MSSQL / SQL
+      level: Primary
       evidence: Relational data access and application queries
-    - name: NoSQL
+    - name: Elasticsearch
+      level: Primary
+      evidence: Data migration, indexing, and search
+    - name: Neo4j
+      level: Familiar
+      evidence: Internal tooling and visualization
+    - name: MongoDB
       level: Working knowledge
-      evidence: Elasticsearch, Neo4j, MongoDB, and Redis
+      evidence: Application data storage
+    - name: Redis
+      level: Working knowledge
+      evidence: Application caching and supporting services
