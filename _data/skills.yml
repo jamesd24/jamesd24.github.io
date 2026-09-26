@@ -19,14 +19,23 @@
       level: Familiar
       evidence: Beginning backend server development
 
-- name: Backend and application development
+- name: Data and search
   skills:
-    - name: ASP.NET / ASP.NET Core
+    - name: MSSQL / SQL
       level: Expert
-      evidence: Web APIs and backend services
-    - name: WinForms / WPF
+      evidence: Relational data access and application queries
+    - name: Elasticsearch
+      level: Expert
+      evidence: Data migration, indexing, and search
+    - name: MongoDB
       level: Working
-      evidence: Desktop application development
+      evidence: Application data storage
+    - name: Redis
+      level: Working
+      evidence: Application caching and supporting services
+    - name: Neo4j
+      level: Familiar
+      evidence: Internal tooling and visualization
 
 - name: Cloud and infrastructure
   skills:
@@ -43,20 +52,23 @@
       level: Familiar
       evidence: Container orchestration and deployment workflows
 
-- name: Data and search
+- name: Backend and application development
   skills:
-    - name: MSSQL / SQL
+    - name: ASP.NET / ASP.NET Core
       level: Expert
-      evidence: Relational data access and application queries
-    - name: Elasticsearch
+      evidence: Web APIs and backend services
+    - name: Entity Framework / LINQ
       level: Expert
-      evidence: Data migration, indexing, and search
-    - name: Neo4j
+      evidence: ORM and data access patterns
+    - name: REST APIs
+      level: Expert
+      evidence: API design and implementation
+    - name: WinForms / WPF
+      level: Working
+      evidence: Desktop application development
+    - name: gRPC
       level: Familiar
-      evidence: Internal tooling and visualization
-    - name: MongoDB
-      level: Working
-      evidence: Application data storage
-    - name: Redis
-      level: Working
-      evidence: Application caching and supporting services
+      evidence: High-performance service communication
+    - name: GraphQL
+      level: Familiar
+      evidence: API query language experience
