@@ -5,7 +5,7 @@
       evidence: Production services, APIs, and internal tooling
     - name: Python
       level: Expert
-      evidence: Automation, scripting, and supporting tools
+      evidence: Automation scripts, data processing, and supporting tools
     - name: JavaScript / TypeScript
       level: Working
       evidence: Web applications and frontend development
@@ -15,27 +15,24 @@
     - name: Java
       level: Working
       evidence: Java-based platforms and tooling
-    - name: Go
-      level: Familiar
-      evidence: Beginning backend server development
 
 - name: Data and search
   skills:
     - name: MSSQL / SQL
       level: Expert
-      evidence: Relational data access and application queries
+      evidence: Relational data access, application queries, and database development
     - name: Elasticsearch
       level: Expert
-      evidence: Data migration, indexing, and search
+      evidence: Data migration, indexing, search, and operational troubleshooting
     - name: MongoDB
       level: Working
-      evidence: Application data storage
+      evidence: Application data storage and integration
     - name: Redis
       level: Working
       evidence: Application caching and supporting services
     - name: Neo4j
       level: Familiar
-      evidence: Internal tooling and visualization
+      evidence: Internal tooling and data visualization
 
 - name: Cloud and infrastructure
   skills:
@@ -44,7 +41,7 @@
       evidence: Infrastructure automation and environment configuration
     - name: Ansible
       level: Working
-      evidence: Configuration management and automation
+      evidence: Configuration management and deployment automation
     - name: Docker
       level: Working
       evidence: Containerized development and deployment
@@ -54,43 +51,39 @@
 
 - name: CI/CD and DevOps
   skills:
-    - name: BitBucket Pipelines
+    - name: Bitbucket Pipelines
       level: Working
-      evidence: Repository-integrated CI/CD workflows
+      evidence: Repository-integrated CI/CD workflows and deployments
     - name: GitHub Actions
       level: Working
-      evidence: Workflow automation and continuous integration
+      evidence: CI/CD workflow automation and release pipelines
     - name: TeamCity
       level: Working
-      evidence: Build pipelines and deployment automation
-    - name: Woodpecker CI
-      level: Familiar
-      evidence: Lightweight CI/CD pipeline configuration
+      evidence: Build pipelines, deployment automation, and artifact management
     - name: GitLab CI
       level: Familiar
-      evidence: Experience with GitLab platform and CI runners
+      evidence: GitLab CI/CD pipeline configuration and runner workflows
 
 - name: Backend and application development
   skills:
     - name: ASP.NET / ASP.NET Core
       level: Expert
       evidence: Web APIs and backend services
-      evidence: ORM and data access patterns
     - name: REST APIs
       level: Expert
-      evidence: API design and implementation
+      evidence: API design, implementation, and service integration
     - name: WinForms / WPF
       level: Working
       evidence: Desktop application development
     - name: GraphQL
       level: Familiar
-      evidence: API query language experience
+      evidence: API query language and service integration
 
 - name: AI-assisted development
   skills:
     - name: AI-Powered Coding & Automation
       level: Working
-      evidence: Model-assisted development for coding tasks, debugging, and documentation
+      evidence: Model-assisted development for coding, debugging, and documentation
     - name: Automated Code Refactoring
       level: Familiar
       evidence: RovoDev for feature flag cleanup and large-scale code automation
