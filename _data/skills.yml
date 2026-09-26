@@ -81,9 +81,9 @@
 
 - name: AI-assisted development
   skills:
-    - name: AI-Powered Coding & Automation
+    - name: AI-assisted coding and debugging
       level: Working
       evidence: Model-assisted development for coding, debugging, and documentation
-    - name: Automated Code Refactoring
+    - name: Automation and code cleanup workflows
       level: Familiar
       evidence: RovoDev for feature flag cleanup and large-scale code automation
