@@ -5144,42 +5144,8 @@ Created using IcoMoon - icomoon.io
     width: 140px; }
 
 /* Profile Image Style */
-@-webkit-keyframes pulsate {
-  0% {
-    transform: scale(0.6, 0.6);
-    opacity: 0.0; }
-  50% {
-    opacity: 1.0; }
-  100% {
-    transform: scale(1, 1);
-    opacity: 0.0; } }
-@keyframes pulsate {
-  0% {
-    transform: scale(0.6, 0.6);
-    opacity: 0.0; }
-  50% {
-    opacity: 1.0; }
-  100% {
-    transform: scale(1, 1);
-    opacity: 0.0; } }
-
 .cc-profile-image a {
   position: relative; }
-
-.cc-profile-image a:before {
-  content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
-  border-radius: 50%;
-  height: 180px;
-  width: 180px;
-  position: absolute;
-  left: 0;
-  -webkit-animation: pulsate 1.6s ease-out;
-          animation: pulsate 1.6s ease-out;
-  -webkit-animation-iteration-count: infinite;
-          animation-iteration-count: infinite;
-  opacity: 0.0;
-  z-index: 99; }
 
 .cc-profile-image img {
   position: relative;
