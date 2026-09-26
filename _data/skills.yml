@@ -54,6 +54,9 @@
 
 - name: CI/CD and DevOps
   skills:
+    - name: BitBucket Pipelines
+      level: Working
+      evidence: Repository-integrated CI/CD workflows
     - name: GitHub Actions
       level: Working
       evidence: Workflow automation and continuous integration
@@ -61,11 +64,8 @@
       level: Working
       evidence: Build pipelines and deployment automation
     - name: Woodpecker CI
-      level: Working
-      evidence: Lightweight CI/CD pipeline configuration
-    - name: BitBucket Pipelines
       level: Familiar
-      evidence: Repository-integrated CI/CD workflows
+      evidence: Lightweight CI/CD pipeline configuration
     - name: GitLab CI
       level: Familiar
       evidence: Experience with GitLab platform and CI runners
@@ -75,8 +75,6 @@
     - name: ASP.NET / ASP.NET Core
       level: Expert
       evidence: Web APIs and backend services
-    - name: Entity Framework / LINQ
-      level: Expert
       evidence: ORM and data access patterns
     - name: REST APIs
       level: Expert
@@ -84,9 +82,6 @@
     - name: WinForms / WPF
       level: Working
       evidence: Desktop application development
-    - name: gRPC
-      level: Familiar
-      evidence: High-performance service communication
     - name: GraphQL
       level: Familiar
       evidence: API query language experience
