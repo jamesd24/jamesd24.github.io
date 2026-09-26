@@ -52,6 +52,24 @@
       level: Familiar
       evidence: Container orchestration and deployment workflows
 
+- name: CI/CD and DevOps
+  skills:
+    - name: GitHub Actions
+      level: Working
+      evidence: Workflow automation and continuous integration
+    - name: TeamCity
+      level: Working
+      evidence: Build pipelines and deployment automation
+    - name: Woodpecker CI
+      level: Working
+      evidence: Lightweight CI/CD pipeline configuration
+    - name: BitBucket Pipelines
+      level: Familiar
+      evidence: Repository-integrated CI/CD workflows
+    - name: GitLab CI
+      level: Familiar
+      evidence: Experience with GitLab platform and CI runners
+
 - name: Backend and application development
   skills:
     - name: ASP.NET / ASP.NET Core
