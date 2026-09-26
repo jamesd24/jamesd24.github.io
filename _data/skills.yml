@@ -1,19 +1,19 @@
 - name: Languages
   skills:
     - name: C# / .NET
-      level: Primary
+      level: Expert
       evidence: Production services, APIs, and internal tooling
     - name: Python
-      level: Primary
+      level: Expert
       evidence: Automation, scripting, and supporting tools
     - name: JavaScript / TypeScript
-      level: Working knowledge
+      level: Working
       evidence: Web applications and frontend development
     - name: C++
-      level: Working knowledge
+      level: Working
       evidence: Backend server services
     - name: Java
-      level: Working knowledge
+      level: Working
       evidence: Java-based platforms and tooling
     - name: Go
       level: Familiar
@@ -22,22 +22,22 @@
 - name: Backend and application development
   skills:
     - name: ASP.NET / ASP.NET Core
-      level: Primary
+      level: Expert
       evidence: Web APIs and backend services
     - name: WinForms / WPF
-      level: Working knowledge
+      level: Working
       evidence: Desktop application development
 
 - name: Cloud and infrastructure
   skills:
     - name: Terraform
-      level: Working knowledge
+      level: Working
       evidence: Infrastructure automation and environment configuration
     - name: Ansible
-      level: Working knowledge
+      level: Working
       evidence: Configuration management and automation
     - name: Docker
-      level: Working knowledge
+      level: Working
       evidence: Containerized development and deployment
     - name: Kubernetes
       level: Familiar
@@ -46,17 +46,17 @@
 - name: Data and search
   skills:
     - name: MSSQL / SQL
-      level: Primary
+      level: Expert
       evidence: Relational data access and application queries
     - name: Elasticsearch
-      level: Primary
+      level: Expert
       evidence: Data migration, indexing, and search
     - name: Neo4j
       level: Familiar
       evidence: Internal tooling and visualization
     - name: MongoDB
-      level: Working knowledge
+      level: Working
       evidence: Application data storage
     - name: Redis
-      level: Working knowledge
+      level: Working
       evidence: Application caching and supporting services
