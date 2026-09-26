@@ -72,3 +72,12 @@
     - name: GraphQL
       level: Familiar
       evidence: API query language experience
+
+- name: AI & Machine Learning
+  skills:
+    - name: Prompt Engineering & AI-Assisted Development
+      level: Working
+      evidence: Efficient model use for coding tasks, debugging, and documentation
+    - name: AI-Driven Automation Tools
+      level: Familiar
+      evidence: RovoDev for automated feature flag cleanup and code refactoring
