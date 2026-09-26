@@ -73,11 +73,11 @@
       level: Familiar
       evidence: API query language experience
 
-- name: AI & Machine Learning
+- name: AI-assisted development
   skills:
-    - name: Prompt Engineering & AI-Assisted Development
+    - name: AI-Powered Coding & Automation
       level: Working
-      evidence: Efficient model use for coding tasks, debugging, and documentation
-    - name: AI-Driven Automation Tools
+      evidence: Model-assisted development for coding tasks, debugging, and documentation
+    - name: Automated Code Refactoring
       level: Familiar
-      evidence: RovoDev for automated feature flag cleanup and code refactoring
+      evidence: RovoDev for feature flag cleanup and large-scale code automation
